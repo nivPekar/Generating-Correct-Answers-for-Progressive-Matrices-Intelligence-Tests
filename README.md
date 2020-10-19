@@ -15,7 +15,6 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 
 ## Data
 * [PGM](https://github.com/deepmind/abstract-reasoning-matrices)
-* [RAVEN](https://github.com/WellyZhang/RAVEN)
 * [RAVEN-FAIR](https://github.com/yanivbenny/RAVEN_FAIR) (Balanced version of RAVEN)
 
 
