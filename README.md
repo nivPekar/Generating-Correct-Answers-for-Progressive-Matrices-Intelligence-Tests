@@ -1,7 +1,7 @@
 # Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests
 code for the paper "Generating Correct Answers for Progressive Matrices Intelligence Tests"
 
-![pic](images/intro.jpg =300x300)
+![pic](images/intro.jpg){:height="50%" width="50%"}
 
 
 ## Requirements
