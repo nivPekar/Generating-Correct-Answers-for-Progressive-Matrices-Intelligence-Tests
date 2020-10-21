@@ -21,7 +21,7 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 
 
 ## Code
-Code and models will be uploaded soon.
+Please note that the git contains a working code and pretrained model. We will tidy it up further in the subsequent weeks.
 
 
 ## Evaluating models
