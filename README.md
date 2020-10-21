@@ -23,7 +23,11 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 ## Code
 Code and models will be uploaded soon.
 
+
 ## Evaluating models
 * [Multi-scale Reasoning Network (MRNet)](https://github.com/yanivbenny/MRNet)
 * [Wild Relational Network (WReN)](https://github.com/Fen9/WReN)
 * [Logic Embedding Network (LEN)](https://github.com/zkcys001/distracting_feature)
+
+## Performance
+For details, please check our paper. 
