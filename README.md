@@ -1,5 +1,7 @@
 # Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests
-code for the paper "Generating Correct Answers for Progressive Matrices Intelligence Tests"
+code for the paper "Generating Correct Answers for Progressive Matrices Intelligence Tests" to appear in NeurIPS 2020. 
+
+(Niv Pekar,Yaniv Benny, Lior Wolf, 2020)
 
 ![pic](images/intro.jpg)
 
@@ -20,3 +22,7 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 
 ## Code
 Code and models will be uploaded soon.
+
+## Acknowledgement
+* [Wild Relational Network (WReN](https://github.com/Fen9/WReN)
+* [Logic Embedding Network (LEN)](https://github.com/zkcys001/distracting_feature)
