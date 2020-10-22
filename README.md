@@ -23,6 +23,12 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 ## Code
 Please note that the git contains a working code. Soon we will upload the pretrained model, and we will tidy up the code in the subsequent weeks.
 
+## Usage
+To train the generation network:
+```
+python3 train_generation.py --epochs <number of epochs> --data_path <path to the dataset> --batch_size <batch size number>
+```
+
 
 ## Evaluating models
 * [Multi-scale Reasoning Network (MRNet)](https://github.com/yanivbenny/MRNet)
