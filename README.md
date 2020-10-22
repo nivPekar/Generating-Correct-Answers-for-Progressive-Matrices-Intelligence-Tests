@@ -8,6 +8,7 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
    <img src="https://github.com/nivPekar/Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests/tree/main/images/intro.png"><br><br>
 </div>
 
+
 ## Requirements
 * python 3.6
 * NVIDIA GPU with CUDA 10.0+ capability
