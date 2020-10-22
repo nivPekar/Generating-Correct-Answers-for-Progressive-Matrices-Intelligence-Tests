@@ -5,6 +5,9 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 
 ![pic](images/intro.jpg)
 
+<div width="20%", height="20%", align="center">
+   <img src="https://github.com/nivPekar/Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests/tree/main/images/intro.jpg"><br><br>
+</div>
 
 ## Requirements
 * python 3.6
