@@ -3,7 +3,7 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 
 (Niv Pekar,Yaniv Benny, Lior Wolf, 2020)
 
-
+<img src="https://github.com/nivPekar/Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests/tree/main/images/intro.png" width="200" height="200" />
 <img width="50%", height="50%", align="center">
    <img src="https://github.com/nivPekar/Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests/tree/main/images/intro.png"><br><br>
 </div>
