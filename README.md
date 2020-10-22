@@ -5,7 +5,7 @@ code for the paper "Generating Correct Answers for Progressive Matrices Intellig
 
 
 <div width="50%", height="50%", align="center">
-   <img src="https://github.com/nivPekar/Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests/tree/main/images/intro.jpg"><br><br>
+   <img src="https://github.com/nivPekar/Generating-Correct-Answers-for-Progressive-Matrices-Intelligence-Tests/tree/main/images/intro.png"><br><br>
 </div>
 
 ## Requirements
